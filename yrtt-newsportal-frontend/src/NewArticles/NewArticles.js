@@ -19,7 +19,7 @@ function NewArticles() {
                                         </input>
                                     </div>
                                 </div>
-                                <div className="row-newarticle">
+                                {/* <div className="row-newarticle">
                                     <div className="col-25-newarticle">
                                         <label htmlFor="notes">Article Notes</label>
                                     </div>
@@ -27,7 +27,7 @@ function NewArticles() {
                                         <textarea id="notes" name="notes" placeholder="Comments.."
                                             style="height:200px" />
                                     </div>
-                                </div>
+                                </div> */}
                                 <div className="row-newarticle">
                                     <div className="col-25-newarticle">
                                         <label htmlFor="articlecategory">Article Category</label>
